@@ -1,0 +1,7 @@
+{
+  "name": "demo-appflow-auto-increment",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

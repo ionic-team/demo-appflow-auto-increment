@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "demo-appflow-auto-increment",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
